@@ -1,0 +1,98 @@
+{
+  "files": [
+    "contributors.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ravi-prakash1907",
+      "name": "Ravi Prakash",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/38535224?v=4",
+      "profile": "https://ravi-prakash1907.gitlab.io/",
+      "contributions": [
+        "content",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "KemmieKemy",
+      "name": "Ekemini Okpongkpong",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/26260619?v=4",
+      "profile": "https://medium.com/@kemmie",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "abhisht51",
+      "name": "Abhisht Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/39940817?v=4",
+      "profile": "https://github.com/abhisht51",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Siddhant-K-code",
+      "name": "Siddhant Khare",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/55068936?v=4",
+      "profile": "https://www.linkedin.com/in/siddhantkhare24/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "relaxxpls",
+      "name": "Laxman Desai",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/63250453?v=4",
+      "profile": "https://github.com/relaxxpls",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "guptavaibhav159",
+      "name": "guptavaibhav159",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/72003248?v=4",
+      "profile": "https://github.com/guptavaibhav159",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "niharika412",
+      "name": "Niharika Pandit",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37020410?v=4",
+      "profile": "https://niharika412.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kishanpython",
+      "name": "Kishan Yadav",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/42211066?v=4",
+      "profile": "https://github.com/kishanpython",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kraken-sudo",
+      "name": "kraken-sudo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/65814097?v=4",
+      "profile": "https://github.com/kraken-sudo",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 3,
+  "projectName": "IPL-Analysis",
+  "projectOwner": "Team-thedatatribune",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
